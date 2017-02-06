@@ -1,0 +1,19 @@
+{
+    "name": "Example",
+    "main": "app.js",
+    "version": "0.0.1",
+    "author": "Marcello Montenegro",
+    "private": true,
+    "contribuitors": [{
+        "name": "Marcello Montenegro",
+        "email": "marcevalmon@icloud.com"
+    }],
+    "scripts": {
+        "start": "nodemon app.js --ignore public/"
+    },
+    "dependencies": {
+        "express": "*",
+        "nodemon": "*",
+        "morgan":"*"
+    }
+}

@@ -1,0 +1,33 @@
+.c-button {
+    padding: 4px 15px 4px 15px;
+    border: 0;
+    outline: none;
+}
+
+.c-button:active {
+    box-shadow: 0 5px #666;
+    transform: translateY(1px);
+}
+
+.c-button-green {
+    background: #7CAC24;
+    box-shadow: 0 3px 0px 0px #5A7C1B;
+    color: white;
+}
+
+.c-button-green:hover {
+    box-shadow: 0 3px 0px 0px #5A7C1B;
+}
+
+.fs-15 {
+    font-size: 15px;
+}
+
+.w-200 {
+    width: 200px;
+}
+
+body {
+    color: white;
+    background-color: #2f2f2f;
+}

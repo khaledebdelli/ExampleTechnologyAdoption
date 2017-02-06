@@ -1,0 +1,14 @@
+{
+  "name": "Example",
+  "private": "true",
+  "dependencies": {
+    "angular": "*",
+    "angular-route": "*",
+    "angular-sanitize": "*",
+    "angular-ui-router": "*",
+    "underscore": "*",
+    "bootstrap": "*",
+    "highcharts": "*",
+    "components-font-awesome": "^4.7.0"
+  }
+}
